@@ -16,11 +16,4 @@ This compiler is designed to convert basic TypeScript code into JavaScript by ha
 
 ## The StripTS Gauntlet
 
-- For testing, to make sure one update doesn't break improvements to the other tests.
-
-1.ts - Compiler removes Type Annotations
-2.ts - Compiler removes Interfaces
-3.ts - Compiler removes enums
-4.ts - Compiler removes generic types
-5.ts - Compiler correctly added type="module"
-6.ts - Compiler removes decorators and access modifiers
+- For debugging, run through all ts files in ExampleTSFiles
