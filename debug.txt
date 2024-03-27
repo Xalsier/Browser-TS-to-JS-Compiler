@@ -7,13 +7,3 @@ StripTS('../etsf/4.ts');
 StripTS('../etsf/5.ts');
 StripTS('../etsf/6.ts');
 StripTS('../etsf/7.ts');
-
-Javascript Files for Debugging
-
-StripTS('../ejsf/1.js');
-StripTS('../ejsf/2.js');
-StripTS('../ejsf/3.js');
-StripTS('../ejsf/4.js');
-StripTS('../ejsf/5.js');
-StripTS('../ejsf/6.js');
-StripTS('../ejsf/7.js');
